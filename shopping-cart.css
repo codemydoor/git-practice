@@ -1,0 +1,10 @@
+.side {width: 300px;
+       height: 1500px;
+       background-color: blue;}
+.header { background-color: gold;
+          height: 50px }
+.body {width: 1300px;
+       height: 1500px;
+       background-color:;}
+
+.layout {display: flex;}
